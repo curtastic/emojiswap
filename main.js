@@ -302,7 +302,7 @@ w.gloop = () =>
 				v = t.level
 				t.go = 1
 			}
-			e.y -= .03 / (v+1)
+			e.y -= (.03+gday*.001) / (v+1)
 			e.gridx = e.x | 0
 			e.gridy = e.y | 0
 			
