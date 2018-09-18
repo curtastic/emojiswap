@@ -11,3 +11,5 @@ Match 4 of anything to get an extra swap.
 Match 3 of a tower to get an upgraded tower that shoots faster.
 
 When you run out of swaps, night falls and aliens invade.
+
+Play now: https://js13kgames.com/entries/emoji-swap
